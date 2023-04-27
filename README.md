@@ -1,6 +1,7 @@
 # stable-diffusion-webui-composable-lycoris
 Composable LoRA support for LoRA, LoCon and LyCORIS
 
+# Composable LoRA/LyCORIS with steps
 Please download it at
 
 [https://github.com/a2569875/stable-diffusion-webui-composable-lora.git](https://github.com/a2569875/stable-diffusion-webui-composable-lora.git)
